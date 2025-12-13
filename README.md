@@ -96,9 +96,22 @@ Neural machine translation system with attention mechanisms.
 - 🌍 Contributing to open science and reproducible research
 
 ---
-| Year | Title | Type | DOI | Citations |
-|------|-------|------|-----|-----------|
-| 2025 | Le Léviathan Algorithmique | PhD projected thesis | [10.13140/...](https://doi.org/...) | ![](https://img.shields.io/badge/dynamic/json?...) |
+## 📚 Publications Highlights
+
+| Année | Titre | Type | DOI | Metrics |
+|:-----:|:------|:----:|:---:|:-------:|
+| 2025 | **Le Léviathan Algorithmique : pouvoir, opacité et responsabilité à l'ère de l'intelligence artificielle** | Examen de synthèse doctoral | [![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.28011.20002-blue)](https://doi.org/10.13140/RG.2.2.28011.20002) | ![ResearchGate](https://img.shields.io/badge/RG-Reads-00CCBB) |
+| 2025 | **Modeling a Hybrid System for Verifying the Credibility of Information Sources** | Preprint | [![DOI](https://img.shields.io/badge/DOI-10.13140/rg.2.2.36348.24961-blue)](https://doi.org/10.13140/rg.2.2.36348.24961) | ![ResearchGate](https://img.shields.io/badge/RG-Reads-00CCBB) |
+| 2025 | **Hybrid System for Verifying Credibility: An Ontology** | Preprint | [![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.22926.47680-blue)](https://doi.org/10.13140/RG.2.2.22926.47680) | ![ResearchGate](https://img.shields.io/badge/RG-Reads-00CCBB) |
+| 2025 | **Evaluation of Information Retrieval Models on TREC AP 88-90** | Preprint | [![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.22608.62721-blue)](https://doi.org/10.13140/RG.2.2.22608.62721) | ![ResearchGate](https://img.shields.io/badge/RG-Reads-00CCBB) |
+| 2025 | **Development and Evaluation of an English-to-Russian Neural MT System** | Preprint | [![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.17980.55687-blue)](https://doi.org/10.13140/RG.2.2.17980.55687) | ![ResearchGate](https://img.shields.io/badge/RG-Reads-00CCBB) |
+
+<p align="center">
+  <a href="https://dominiqueloyer.github.io/papers.html">
+    <img src="https://img.shields.io/badge/📄_View_All_Publications-orange?style=for-the-badge" alt="View All Publications"/>
+  </a>
+</p>
+
 
 
 ## 📫 Contact & Links
