@@ -20,7 +20,7 @@ PhD Candidate in Cognitive Informatics at [Institut des Sciences Cognitives, UQA
 
 ## 📚 Featured Publications
 
-### 🏆 PhD Thesis
+### 🏆 PhD (Examen de synthèse doctoral)
 **Le Léviathan Algorithmique : pouvoir, opacité et responsabilité à l'ère de l'intelligence artificielle**  
 [![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.28011.20002-blue)](https://doi.org/10.13140/RG.2.2.28011.20002)
 
