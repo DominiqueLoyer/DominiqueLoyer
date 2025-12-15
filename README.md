@@ -37,8 +37,22 @@ PhD Candidate in Cognitive Informatics at [Institut des Sciences Cognitives, UQA
 - **Hybrid System Ontology for Information Source Verification** (2025)  
   [![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.22926.47680-blue)](https://doi.org/10.13140/RG.2.2.22926.47680)
 
-- **Evaluation of Information Retrieval Models on TREC AP 88-90** (2025)  
-  [![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.22608.62721-blue)](https://doi.org/10.13140/RG.2.2.22608.62721)
+### 📚 TREC Evaluation System
+ **Evaluation of Information Retrieval Models on TREC AP 88-90** (2025)  
+[![Paper DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.22608.62721-blue)](https://doi.org/10.13140/RG.2.2.22608.62721)
+
+> Évaluation comparative de modèles de recherche d'information sur les collections TREC AP 88-90.
+
+**Technologies :** Python • Information Retrieval • BM25 • TF-IDF • Vector Space Models
+
+**Résultats :**
+- 📊 Analyse de 165,000 documents
+- 📈 Comparaison BM25 vs. VSM
+- 🎯 Métriques MAP, NDCG, Precision@K
+
+📄 [Lire l'article](https://doi.org/10.13140/RG.2.2.22608.62721)
+
+  
 
 📄 [**View all publications →**](https://dominiqueloyer.github.io/papers.html)
 
