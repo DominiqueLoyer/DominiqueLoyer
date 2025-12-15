@@ -5,7 +5,7 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB)](https://www.researchgate.net/profile/Dominique-Loyer)
 [![Website](https://img.shields.io/badge/Website-dominiqueloyer.github.io-orange)](https://dominiqueloyer.github.io)
 
-## 🎓 About Me
+---
 
 PhD Candidate in Cognitive Informatics at [Institut des Sciences Cognitives, UQAM](https://isc.uqam.ca/)
 
@@ -15,6 +15,12 @@ PhD Candidate in Cognitive Informatics at [Institut des Sciences Cognitives, UQA
 - 📊 Recommendation Systems & Collaborative Filtering
 - 🌐 Digital Sociology & Information Credibility
 - ⚖️ AI Ethics & Accountability
+
+---
+### 💖 Support My GITHUB Open Projects
+
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Support-EA4AAA)](https://github.com/sponsors/DominiqueLoyer)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-FFDD00)](https://www.buymeacoffee.com/dominiqueloyer)
 
 ---
 
