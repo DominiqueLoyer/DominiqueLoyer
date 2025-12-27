@@ -28,7 +28,9 @@ PhD Candidate in Cognitive Informatics at [Institut des Sciences Cognitives, UQA
 
 ### 🏆 PhD (Examen de synthèse doctoral)
 **Le Léviathan Algorithmique : pouvoir, opacité et responsabilité à l'ère de l'intelligence artificielle**  
+[![ISBN](https://img.shields.io/badge/ISBN-978--1--0699904--0--2-green)](https://isbnsearch.org/isbn/978-1-0699904-0-2)
 [![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.28011.20002-blue)](https://doi.org/10.13140/RG.2.2.28011.20002)
+
 
 ### 📝 Selected Papers
 - **Modeling a Hybrid System for Verifying Information Credibility** (2025)  
@@ -93,18 +95,20 @@ Neural machine translation system with attention mechanisms.
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-**Research Tools:**  
+**Research & Productivity Tools:**  
 ![Zotero](https://img.shields.io/badge/Zotero-CC2936?style=flat&logo=zotero&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Dominique's GitHub stats](https://github-readme-stats.vercel.app/api?username=DominiqueLoyer&show_icons=true&theme=radical)
+![Dominique's GitHub stats](https://github-readme-stats.vercel.app/api?username=DominiqueLoyer&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DominiqueLoyer&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DominiqueLoyer&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
@@ -118,13 +122,14 @@ Neural machine translation system with attention mechanisms.
 ---
 ## 📚 Publications Highlights
 
-| Année | Titre | Type | DOI | Metrics |
-|:-----:|:------|:----:|:---:|:-------:|
-| 2025 | **Le Léviathan Algorithmique : pouvoir, opacité et responsabilité à l'ère de l'intelligence artificielle** | Examen de synthèse doctoral | [![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.28011.20002-blue)](https://doi.org/10.13140/RG.2.2.28011.20002) | ![ResearchGate](https://img.shields.io/badge/RG-Reads-00CCBB) |
-| 2025 | **Modeling a Hybrid System for Verifying the Credibility of Information Sources** | Preprint | [![DOI](https://img.shields.io/badge/DOI-10.13140/rg.2.2.36348.24961-blue)](https://doi.org/10.13140/rg.2.2.36348.24961) | ![ResearchGate](https://img.shields.io/badge/RG-Reads-00CCBB) |
-| 2025 | **Hybrid System for Verifying Credibility: An Ontology** | Preprint | [![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.22926.47680-blue)](https://doi.org/10.13140/RG.2.2.22926.47680) | ![ResearchGate](https://img.shields.io/badge/RG-Reads-00CCBB) |
-| 2025 | **Evaluation of Information Retrieval Models on TREC AP 88-90** | Preprint | [![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.22608.62721-blue)](https://doi.org/10.13140/RG.2.2.22608.62721) | ![ResearchGate](https://img.shields.io/badge/RG-Reads-00CCBB) |
-| 2025 | **Development and Evaluation of an English-to-Russian Neural MT System** | Preprint | [![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.17980.55687-blue)](https://doi.org/10.13140/RG.2.2.17980.55687) | ![ResearchGate](https://img.shields.io/badge/RG-Reads-00CCBB) |
+| Année | Titre | Type | DOI |
+|:-----:|:------|:----:|:---:|
+| 2025 | **Le Léviathan Algorithmique : pouvoir, opacité et responsabilité à l'ère de l'intelligence artificielle** | Examen de synthèse doctoral | [![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.28011.20002-blue)](https://doi.org/10.13140/RG.2.2.28011.20002) |
+| 2025 | **Modeling a Hybrid System for Verifying the Credibility of Information Sources** | Preprint | [![DOI](https://img.shields.io/badge/DOI-10.13140/rg.2.2.36348.24961-blue)](https://doi.org/10.13140/rg.2.2.36348.24961) |
+| 2025 | **Hybrid System for Verifying Credibility: An Ontology** | Preprint | [![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.22926.47680-blue)](https://doi.org/10.13140/RG.2.2.22926.47680) |
+| 2025 | **Evaluation of Information Retrieval Models on TREC AP 88-90** | Preprint | [![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.22608.62721-blue)](https://doi.org/10.13140/RG.2.2.22608.62721) |
+| 2025 | **Development and Evaluation of an English-to-Russian Neural MT System** | Preprint | [![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.17980.55687-blue)](https://doi.org/10.13140/RG.2.2.17980.55687) |
+
 
 <p align="center">
   <a href="https://dominiqueloyer.github.io/papers.html">
