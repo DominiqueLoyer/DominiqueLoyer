@@ -7,7 +7,7 @@
 
 ---
 
-PhD Candidate in Cognitive Informatics at [Institut des Sciences Cognitives, UQAM](https://isc.uqam.ca/)
+PhD Candidate in Cognitive Informatics at [Université du Québec à Montréal (UQAM)](https://dic.uqam.ca)
 
 **Research Interests:**
 - 🤖 Algorithmic Bureaucracy & Governance
