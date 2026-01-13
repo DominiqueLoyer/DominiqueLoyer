@@ -108,9 +108,13 @@ Neural machine translation system with attention mechanisms.
 
 <div align="center">
 
-![Dominique's GitHub stats](https://github-readme-stats.vercel.app/api?username=DominiqueLoyer&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DominiqueLoyer&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&count_private=true&include_all_commits=true" alt="Dominique's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DominiqueLoyer&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DominiqueLoyer&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff9966&currStreakLabel=c9d1d9" alt="Dominique's Streak Stats" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominiqueLoyer&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" alt="Top Languages" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=DominiqueLoyer&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="WakaTime Stats" />
 
 </div>
 
