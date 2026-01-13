@@ -107,11 +107,13 @@ Neural machine translation system with attention mechanisms.
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DominiqueLoyer&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/DominiqueLoyer)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DominiqueLoyer&custom_title=Dominique's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff&area_color=79c0ff&title_color=58a6ff&area=true)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DominiqueLoyer&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff)
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DominiqueLoyer&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&count_private=true&include_all_commits=true" />
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DominiqueLoyer&theme=radical)
+<img width="49%" src="https://streak-stats.demolab.com/?user=DominiqueLoyer&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff9966&currStreakLabel=c9d1d9" />
+
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DominiqueLoyer&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" />
 
 </div>
 
