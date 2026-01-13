@@ -105,9 +105,15 @@ Neural machine translation system with attention mechanisms.
 
 ## 📊 GitHub Stats
 
-![Dominique's GitHub stats](https://github-readme-stats.vercel.app/api?username=DominiqueLoyer&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
+## 📊 GitHub Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DominiqueLoyer&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+[![Dominique's GitHub stats](https://github-readme-stats.vercel.app/api?username=DominiqueLoyer&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/DominiqueLoyer)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DominiqueLoyer&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/DominiqueLoyer)
+
+</div>
 
 
 ---
