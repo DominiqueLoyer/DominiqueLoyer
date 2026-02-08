@@ -1,13 +1,13 @@
 # 👨‍🔬 Dominique S. Loyer
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--9713--7109-green.svg)](https://orcid.org/0009-0003-9713-7109) [file:5]  
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=JmRd6U0AAAAJ) [file:5]  
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB)](https://www.researchgate.net/profile/Dominique-Loyer) [file:5]  
-[![Website](https://img.shields.io/badge/Website-dominiqueloyer.github.io-orange)](https://dominiqueloyer.github.io) [file:5]
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--9713--7109-green.svg)](https://orcid.org/0009-0003-9713-7109)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=JmRd6U0AAAAJ)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB)](https://www.researchgate.net/profile/Dominique-Loyer)
+[![Website](https://img.shields.io/badge/Website-dominiqueloyer.github.io-orange)](https://dominiqueloyer.github.io)
 
 ---
 
-PhD Candidate in Cognitive Informatics at [Université du Québec à Montréal (UQAM)](https://dic.uqam.ca) [file:5]
+PhD Candidate in Cognitive Informatics at [Université du Québec à Montréal (UQAM)](https://dic.uqam.ca)
 
 **Research Interests:**
 - 🤖 Algorithmic Bureaucracy & Governance
@@ -17,90 +17,68 @@ PhD Candidate in Cognitive Informatics at [Université du Québec à Montréal (
 - ⚖️ AI Ethics & Accountability
 
 ---
-
-## 💻 Main Research Project
-
-### 🔍 systemFactChecking – Hybrid Information Credibility Verification
-
-A **hybrid fact‑checking system** combining predicate‑logic rules, ontologies and neuro‑symbolic AI to evaluate the credibility of information sources. [file:5]
-
-- **Technologies:** Python, NLP, Ontologies (OWL), Machine Learning, Neuro‑symbolic AI [file:5]  
-- **Status:** Active research (doctoral project) [file:5]  
-- 📂 [Repository – systemFactChecking](https://github.com/DominiqueLoyer/systemFactChecking) *(à vérifier/ajuster si l’URL diffère)* [web:11]  
-- 📄 [Modeling an Hybrid System predicate‑logic‑based and neuro‑symbolic AI for Verifying the Credibility of Information Sources](https://doi.org/10.13140/RG.2.2.36348.24961) [file:5]
-
----
-
 ### 💖 Support My GITHUB Open Projects
 
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Support-EA4AAA)](https://github.com/sponsors/DominiqueLoyer) [web:14]  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-FFDD00)](https://www.buymeacoffee.com/dominiqueloyer) [web:14]
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Support-EA4AAA)](https://github.com/sponsors/DominiqueLoyer)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-FFDD00)](https://www.buymeacoffee.com/dominiqueloyer)
 
 ---
 
-## 📚 Featured Publications (with ISBN)
+## 📚 Featured Publications
 
 ### 🏆 PhD (Examen de synthèse doctoral)
+**Le Léviathan Algorithmique : pouvoir, opacité et responsabilité à l'ère de l'intelligence artificielle**  
+[![ISBN](https://img.shields.io/badge/ISBN-978--1--0699904--0--2-green)](https://isbnsearch.org/isbn/978-1-0699904-0-2)
+[![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.28011.20002-blue)](https://doi.org/10.13140/RG.2.2.28011.20002)
 
-**Le Léviathan Algorithmique : pouvoir, opacité et responsabilité à l'ère de l'intelligence artificielle** [file:5]  
 
-[![ISBN](https://img.shields.io/badge/ISBN-978--1--0699904--8--8-green)](https://isbnsearch.org/isbn/9781069990488) [file:5]  
-[![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.28011.20002-blue)](https://doi.org/10.13140/RG.2.2.28011.20002) [file:6]
+### 📝 Selected Papers
+- **Modeling a Hybrid System for Verifying Information Credibility** (2025)  
+  [![DOI](https://img.shields.io/badge/DOI-10.13140/rg.2.2.36348.24961-blue)](https://doi.org/10.13140/rg.2.2.36348.24961)
 
-> Examen de synthèse du doctorat en informatique cognitive, DIC‑9401. [file:5]
-
----
-
-### 📝 Selected Papers (Hybrid Credibility System)
-
-- **Modeling an Hybrid System predicate‑logic‑based and neuro‑symbolic AI for Verifying the Credibility of Information Sources** (2025) [file:5]  
-  [![ISBN](https://img.shields.io/badge/ISBN-978--1--0699904--5--7-green)](https://isbnsearch.org/isbn/9781069990457) [file:5]  
-  [![DOI](https://img.shields.io/badge/DOI-10.13140/rg.2.2.36348.24961-blue)](https://doi.org/10.13140/rg.2.2.36348.24961) [file:5]
-
-- **Hybrid System for Verifying the Credibility of Information Sources: An Ontology** (2025) [file:5]  
-  [![ISBN](https://img.shields.io/badge/ISBN-978--1--0699904--4--0-green)](https://isbnsearch.org/isbn/9781069990440) [file:5]  
-  [![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.22926.47680-blue)](https://doi.org/10.13140/RG.2.2.22926.47680) [file:5]
+- **Hybrid System Ontology for Information Source Verification** (2025)  
+  [![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.22926.47680-blue)](https://doi.org/10.13140/RG.2.2.22926.47680)
 
 ### 📚 TREC Evaluation System
+ **Evaluation of Information Retrieval Models on TREC AP 88-90** (2025)  
+[![Paper DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.22608.62721-blue)](https://doi.org/10.13140/RG.2.2.22608.62721)
 
-**Evaluation of Information Retrieval Models and Query Expansion on the TREC AP 88‑90 Collection** (2025) [file:5]  
+> Évaluation comparative de modèles de recherche d'information sur les collections TREC AP 88-90.
 
-[![ISBN](https://img.shields.io/badge/ISBN-978--1--0699904--6--4-green)](https://isbnsearch.org/isbn/9781069990464) [file:5]  
-[![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.22608.62721-blue)](https://doi.org/10.13140/RG.2.2.22608.62721) [file:5]
-
-> Évaluation comparative de modèles de recherche d'information sur les collections TREC AP 88‑90. [file:5]
-
-**Technologies :** Python • Information Retrieval • BM25 • TF‑IDF • Vector Space Models [file:5]
+**Technologies :** Python • Information Retrieval • BM25 • TF-IDF • Vector Space Models
 
 **Résultats :**
-- 📊 Analyse de ~243 000 documents [file:5]
-- 📈 Comparaison BM25 vs. VSM [file:5]
-- 🎯 Métriques MAP, NDCG, Precision@K [file:5]
-- 📂 [Repository](https://github.com/DominiqueLoyer/TREC_AP_88-90) [web:11]  
-📄 [Lire l'article](https://doi.org/10.13140/RG.2.2.22608.62721) [file:5]
+- 📊 Analyse de 165,000 documents
+- 📈 Comparaison BM25 vs. VSM
+- 🎯 Métriques MAP, NDCG, Precision@K
+
+📄 [Lire l'article](https://doi.org/10.13140/RG.2.2.22608.62721)
+
+  
+
+📄 [**View all publications →**](https://dominiqueloyer.github.io/papers.html)
 
 ---
 
-## 💻 Other Research Projects
+## 💻 Research Projects
+
+### 🔍 Information Credibility Verification System
+A hybrid system combining predicate logic and ML/AI for assessing information source credibility.
+- **Technologies:** Python, NLP, Ontologies (OWL), Machine Learning
+- **Status:** Active Research
+- 📂 [Repository](#) | 📄 [Paper](https://doi.org/10.13140/rg.2.2.36348.24961)
 
 ### 🌐 Web Science Ontology
+OWL ontology for modeling information verification systems.
+- **Technologies:** OWL, RDF, Protégé
+- **Status:** Published
+- 📂 [Repository](#) | 📄 [Paper](https://doi.org/10.13140/RG.2.2.22926.47680)
 
-OWL ontology for modeling information verification systems. [file:5]
-
-- **Technologies:** OWL, RDF, Protégé [file:5]  
-- **Status:** Published [file:5]  
-- 📂 [Repository](https://github.com/DominiqueLoyer/ontology-syscred) [web:11]  
-- 📄 [Paper](https://doi.org/10.13140/RG.2.2.22926.47680) [file:5]
-
-### 🔤 Neural Machine Translation (English‑Russian)
-
-Neural machine translation system with attention mechanisms. [file:5]
-
-- **Technologies:** Python, TensorFlow, PyTorch, NMT [file:5]  
-- **Status:** Completed [file:5]  
-- 📂 [Repository – NeuralMachineTranslation_EN-RU](https://github.com/DominiqueLoyer/NeuralMachineTranslation_EN-RU)
-) [web:11]  
-- 📄 [Paper](https://doi.org/10.13140/RG.2.2.17980.55687) [file:5]
+### 🔤 Neural Machine Translation (English-Russian)
+Neural machine translation system with attention mechanisms.
+- **Technologies:** Python, TensorFlow, PyTorch, NMT
+- **Status:** Completed
+- 📂 [Repository](#) | 📄 [Paper](https://doi.org/10.13140/RG.2.2.17980.55687)
 
 ---
 
@@ -129,39 +107,44 @@ Neural machine translation system with attention mechanisms. [file:5]
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DominiqueLoyer&custom_title=Dominique's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff&area_color=79c0ff&title_color=58a6ff&area=true)](https://github.com/DominiqueLoyer) [web:11]
+<!-- Contribution Graph (celui qui fonctionne déjà) -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DominiqueLoyer&custom_title=Dominique's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff&area_color=79c0ff&title_color=58a6ff&area=true)](https://github.com/DominiqueLoyer)
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DominiqueLoyer&theme=radical) [web:11]
+<!-- Profile Details -->
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DominiqueLoyer&theme=radical)
 
+<!-- Stats en grille 2x2 -->
 <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DominiqueLoyer&theme=radical" />
 <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DominiqueLoyer&theme=radical" />
 <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DominiqueLoyer&theme=radical" />
 <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DominiqueLoyer&theme=radical&utcOffset=-5" />
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DominiqueLoyer&theme=radical&no-frame=true&no-bg=true&row=1&column=7) [web:11]
+<!-- Trophies -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DominiqueLoyer&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
+
 
 ---
 
 ## 🎯 Current Focus
 
-- 🔬 Completing PhD dissertation on algorithmic bureaucracy [file:5]  
-- 📝 Publishing research on AI transparency and accountability [file:5]  
-- 💡 Developing explainable AI frameworks for recommendation systems [file:5]  
-- 🌍 Contributing to open science and reproducible research [file:5]
+- 🔬 Completing PhD dissertation on algorithmic bureaucracy
+- 📝 Publishing research on AI transparency and accountability
+- 💡 Developing explainable AI frameworks for recommendation systems
+- 🌍 Contributing to open science and reproducible research
 
 ---
-
 ## 📚 Publications Highlights
 
 | Année | Titre | Type | DOI |
 |:-----:|:------|:----:|:---:|
 | 2025 | **Le Léviathan Algorithmique : pouvoir, opacité et responsabilité à l'ère de l'intelligence artificielle** | Examen de synthèse doctoral | [![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.28011.20002-blue)](https://doi.org/10.13140/RG.2.2.28011.20002) |
-| 2025 | **Modeling an Hybrid System for Verifying the Credibility of Information Sources** | Preprint | [![DOI](https://img.shields.io/badge/DOI-10.13140/rg.2.2.36348.24961-blue)](https://doi.org/10.13140/rg.2.2.36348.24961) |
+| 2025 | **Modeling a Hybrid System for Verifying the Credibility of Information Sources** | Preprint | [![DOI](https://img.shields.io/badge/DOI-10.13140/rg.2.2.36348.24961-blue)](https://doi.org/10.13140/rg.2.2.36348.24961) |
 | 2025 | **Hybrid System for Verifying Credibility: An Ontology** | Preprint | [![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.22926.47680-blue)](https://doi.org/10.13140/RG.2.2.22926.47680) |
 | 2025 | **Evaluation of Information Retrieval Models on TREC AP 88-90** | Preprint | [![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.22608.62721-blue)](https://doi.org/10.13140/RG.2.2.22608.62721) |
 | 2025 | **Development and Evaluation of an English-to-Russian Neural MT System** | Preprint | [![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.17980.55687-blue)](https://doi.org/10.13140/RG.2.2.17980.55687) |
+
 
 <p align="center">
   <a href="https://dominiqueloyer.github.io/papers.html">
@@ -169,13 +152,13 @@ Neural machine translation system with attention mechanisms. [file:5]
   </a>
 </p>
 
----
+
 
 ## 📫 Contact & Links
 
 - 🌐 **Website:** [dominiqueloyer.github.io](https://dominiqueloyer.github.io)
-- 📧 **Email:** 2e2g3zhvt@mozmail.com
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/dominique-loyer-456ab739b/](https://www.linkedin.com/in/dominique-loyer-456ab739b/)
+- 📧 **Email:** votreconsultant@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/dominiqueloyer](https://www.linkedin.com/in/dominiqueloyer)
 - 🔬 **ORCID:** [0009-0003-9713-7109](https://orcid.org/0009-0003-9713-7109)
 - 📚 **Google Scholar:** [Profile](https://scholar.google.com/citations?user=JmRd6U0AAAAJ)
 - 🔍 **ResearchGate:** [Dominique Loyer](https://www.researchgate.net/profile/Dominique-Loyer)
@@ -186,6 +169,8 @@ Neural machine translation system with attention mechanisms. [file:5]
 
 Unless otherwise specified, research code is released under [MIT License](LICENSE).  
 Academic publications follow their respective copyright agreements.
+
+---
 
 <p align="center">
   <i>⭐ If you find my work interesting, consider following or starring relevant repositories!</i>
