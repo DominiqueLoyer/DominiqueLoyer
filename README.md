@@ -24,6 +24,28 @@ PhD Candidate in Cognitive Informatics at [Université du Québec à Montréal (
 
 ---
 
+### 🔍 systemFactChecking – Hybrid Information Credibility Verification System
+A hybrid fact-checking system combining predicate-logic rules, ontologies (OWL), and neuro-symbolic AI to evaluate the credibility of information sources.
+
+- **Technologies:** Python, NLP, OWL Ontologies, Machine Learning, Neuro-symbolic AI
+- **Status:** Active Research (Doctoral Project)
+- 📂 [Repository](https://github.com/DominiqueLoyer/systemFactChecking)
+- 📄 [Modeling Paper](https://doi.org/10.13140/rg.2.2.36348.24961) [![ISBN](https://img.shields.io/badge/ISBN-978--1--0699945--0--9-green)](https://isbnsearch.org/isbn/9781069994509)
+- 📄 [Ontology Paper](https://doi.org/10.13140/RG.2.2.22926.47680) [![ISBN](https://img.shields.io/badge/ISBN-978--1--0699945--1--6-green)](https://isbnsearch.org/isbn/9781069994516)
+
+
+[![PyPI version](https://badge.fury.io/py/syscred.svg)](https://badge.fury.io/py/syscred)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18436691.svg)](https://doi.org/10.5281/zenodo.18436691)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DominiqueLoyer/systemFactChecking/blob/main/02_Code/v2_syscred/syscred_colab.ipynb)
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/DominiqueLoyer/systemFactChecking/blob/main/02_Code/v2_syscred/syscred_kaggle.ipynb)
+[![OWL](https://img.shields.io/badge/OWL-2.0-orange.svg)](https://www.w3.org/OWL/)
+[![RDF](https://img.shields.io/badge/RDF-Turtle-blue.svg)](https://www.w3.org/TR/turtle/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+___
 ## 📚 Featured Publications
 
 ### 🏆 PhD (Examen de synthèse doctoral)
@@ -33,14 +55,17 @@ PhD Candidate in Cognitive Informatics at [Université du Québec à Montréal (
 
 
 ### 📝 Selected Papers
-- **Modeling a Hybrid System for Verifying Information Credibility** (2025)  
+- **Modeling a Hybrid System for Verifying Information Credibility** (2025)
+  [![ISBN](https://img.shields.io/badge/ISBN-978--1--0699945--0--9-green)](https://isbnsearch.org/isbn/9781069994509)
   [![DOI](https://img.shields.io/badge/DOI-10.13140/rg.2.2.36348.24961-blue)](https://doi.org/10.13140/rg.2.2.36348.24961)
 
 - **Hybrid System Ontology for Information Source Verification** (2025)  
+  [![ISBN](https://img.shields.io/badge/ISBN-978--1--0699945--1--6-green)](https://isbnsearch.org/isbn/9781069994516)
   [![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.22926.47680-blue)](https://doi.org/10.13140/RG.2.2.22926.47680)
 
 ### 📚 TREC Evaluation System
  **Evaluation of Information Retrieval Models on TREC AP 88-90** (2025)  
+[![ISBN](https://img.shields.io/badge/ISBN-978--1--0699904--5--7-green)](https://isbnsearch.org/isbn/9781069990457)
 [![Paper DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.22608.62721-blue)](https://doi.org/10.13140/RG.2.2.22608.62721)
 
 > Évaluation comparative de modèles de recherche d'information sur les collections TREC AP 88-90.
@@ -48,7 +73,7 @@ PhD Candidate in Cognitive Informatics at [Université du Québec à Montréal (
 **Technologies :** Python • Information Retrieval • BM25 • TF-IDF • Vector Space Models
 
 **Résultats :**
-- 📊 Analyse de 165,000 documents
+- 📊 Analyse de ~243,000 documents
 - 📈 Comparaison BM25 vs. VSM
 - 🎯 Métriques MAP, NDCG, Precision@K
 
@@ -78,7 +103,8 @@ OWL ontology for modeling information verification systems.
 Neural machine translation system with attention mechanisms.
 - **Technologies:** Python, TensorFlow, PyTorch, NMT
 - **Status:** Completed
-- 📂 [Repository](#) | 📄 [Paper](https://doi.org/10.13140/RG.2.2.17980.55687)
+- 📂 [Repository](#) | 📄 [Paper](https://doi.org/10.13140/RG.2.2.17980.55687) [![ISBN](https://img.shields.io/badge/ISBN-978--1--0699904--9--5-green)](https://isbnsearch.org/isbn/9781069990495)
+
 
 ---
 
