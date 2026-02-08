@@ -146,7 +146,8 @@ Neural machine translation system with attention mechanisms.
 <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DominiqueLoyer&theme=radical&utcOffset=-5" />
 
 <!-- Trophies -->
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DominiqueLoyer&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DominiqueLoyer&theme=radical&row=1&column=6)
+
 
 </div>
 
