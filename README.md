@@ -194,8 +194,8 @@ Neural machine translation system with attention mechanisms.
 ## 📫 Contact & Links
 
 - 🌐 **Website:** [dominiqueloyer.github.io](https://dominiqueloyer.github.io)
-- 📧 **Email:** votreconsultant@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/dominiqueloyer](https://www.linkedin.com/in/dominiqueloyer)
+- 📧 **Email:** 2e2g3zhvt@mozmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/dominique-loyer-456ab739b](https://www.linkedin.com/in/dominique-loyer-456ab739b/)
 - 🔬 **ORCID:** [0009-0003-9713-7109](https://orcid.org/0009-0003-9713-7109)
 - 📚 **Google Scholar:** [Profile](https://scholar.google.com/citations?user=JmRd6U0AAAAJ)
 - 🔍 **ResearchGate:** [Dominique Loyer](https://www.researchgate.net/profile/Dominique-Loyer)
