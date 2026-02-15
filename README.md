@@ -40,6 +40,7 @@ SysCRED est un système hybride de fact-checking combinant :
 - 📂 [Repository](https://github.com/DominiqueLoyer/systemFactChecking)
 - 📄 [Modeling Paper](https://doi.org/10.13140/rg.2.2.36348.24961) [![ISBN](https://img.shields.io/badge/ISBN-978--1--0699945--0--9-green)](https://isbnsearch.org/isbn/9781069994509)
 - 📄 [Ontology Paper](https://doi.org/10.13140/RG.2.2.22926.47680) [![ISBN](https://img.shields.io/badge/ISBN-978--1--0699945--1--6-green)](https://isbnsearch.org/isbn/9781069994516)
+- 📄 [Beamer Presentation - (PDF)](01_Presentations/syscred_presentation.pdf)
 
 
 [![PyPI version](https://badge.fury.io/py/syscred.svg)](https://badge.fury.io/py/syscred)
