@@ -27,8 +27,16 @@ PhD Candidate in Cognitive Informatics at [Université du Québec à Montréal (
 ### 🔍 systemFactChecking – Hybrid Information Credibility Verification System
 A hybrid fact-checking system combining predicate-logic rules, ontologies (OWL), and neuro-symbolic AI to evaluate the credibility of information sources.
 
+SysCRED est un système hybride de fact-checking combinant :
+- **Symbolic AI** : Raisonnement par règles et ontologies (OWL/RDF)
+- **Neural AI** : Transformers pour NER, sentiment, cohérence
+- **IR Engine** : Recherche d’évidence (BM25, TF-IDF, TREC)
+- **GraphRAG** : Mémoire contextuelle par graphe de connaissances
+- **E-E-A-T** : Scoring qualité Google (Experience, Expertise, Authority, Trust)
 - **Technologies:** Python, NLP, OWL Ontologies, Machine Learning, Neuro-symbolic AI
 - **Status:** Active Research (Doctoral Project)
+
+  
 - 📂 [Repository](https://github.com/DominiqueLoyer/systemFactChecking)
 - 📄 [Modeling Paper](https://doi.org/10.13140/rg.2.2.36348.24961) [![ISBN](https://img.shields.io/badge/ISBN-978--1--0699945--0--9-green)](https://isbnsearch.org/isbn/9781069994509)
 - 📄 [Ontology Paper](https://doi.org/10.13140/RG.2.2.22926.47680) [![ISBN](https://img.shields.io/badge/ISBN-978--1--0699945--1--6-green)](https://isbnsearch.org/isbn/9781069994516)
