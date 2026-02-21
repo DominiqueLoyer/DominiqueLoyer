@@ -54,6 +54,7 @@ SysCRED est un système hybride de fact-checking combinant :
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # restructuration de sysCRED
+```bash
 systemFactChecking_Sandbox/
 ├── syscred/                    # ← Package Python unique et propre
 │   ├── __init__.py
@@ -85,6 +86,7 @@ systemFactChecking_Sandbox/
 ├── 03_Docs/
 ├── 99_Archive/                 # ← Anciennes versions archivées
 └── ...
+```
 ___
 ## 📚 Featured Publications
 
