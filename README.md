@@ -53,7 +53,38 @@ SysCRED est un système hybride de fact-checking combinant :
 [![RDF](https://img.shields.io/badge/RDF-Turtle-blue.svg)](https://www.w3.org/TR/turtle/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-
+# restructuration de sysCRED
+systemFactChecking_Sandbox/
+├── syscred/                    # ← Package Python unique et propre
+│   ├── __init__.py
+│   ├── backend_app.py          # API Flask
+│   ├── verification_system.py  # Système principal
+│   ├── config.py
+│   ├── ner_analyzer.py         # ← À restaurer
+│   ├── eeat_calculator.py      # ← À restaurer
+│   ├── graph_rag.py
+│   ├── ontology_manager.py
+│   ├── api_clients.py
+│   ├── seo_analyzer.py
+│   ├── ir_engine.py
+│   ├── eval_metrics.py
+│   ├── trec_retriever.py
+│   ├── trec_dataset.py
+│   ├── liar_dataset.py
+│   ├── database.py
+│   └── static/
+│       └── index.html
+├── huggingface_space/
+│   ├── Dockerfile              # ← Mis à jour
+│   └── README.md
+├── requirements.txt            # ← Allégé pour Render
+├── requirements-full.txt       # ← Version complète pour HF/local
+├── Dockerfile                  # Pour Render
+├── .env
+├── README.md
+├── 03_Docs/
+├── 99_Archive/                 # ← Anciennes versions archivées
+└── ...
 ___
 ## 📚 Featured Publications
 
