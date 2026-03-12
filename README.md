@@ -39,7 +39,6 @@ PhD Candidate in Cognitive Informatics at [Université du Québec à Montréal (
 > [!NOTE]
 
 > **Version stable : v2.4.1 (12 mars 2026) — (dashboard explainers, TREC metrics, GraphRAG)**
->
 > - **Fact-Checking** multi-sources (Google Fact Check API)
 > - **E-E-A-T** (Experience, Expertise, Authority, Trust)
 > - **NER** — Extraction d'entités nommées (spaCy)
@@ -47,6 +46,7 @@ PhD Candidate in Cognitive Informatics at [Université du Québec à Montréal (
 > - **Métriques** — Precision, Recall, nDCG, MRR
 > - **Bias Analysis** — Détection de biais
 
+---
 **Site institutionnel: https://syscred.uqam.ca**
 
 ### 🔍 systemFactChecking – Hybrid Information Credibility Verification System
