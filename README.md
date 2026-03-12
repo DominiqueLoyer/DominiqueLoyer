@@ -23,6 +23,31 @@ PhD Candidate in Cognitive Informatics at [Université du Québec à Montréal (
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-FFDD00)](https://www.buymeacoffee.com/dominiqueloyer)
 
 ---
+# SysCRED — Système Neuro-Symbolique de Vérification de Crédibilité
+
+[![PyPI version](https://badge.fury.io/py/syscred.svg)](https://badge.fury.io/py/syscred)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18436691.svg)](https://doi.org/10.5281/zenodo.18436691)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DominiqueLoyer/systemFactChecking/blob/main/02_Code/v2_syscred/syscred_colab.ipynb)
+[![OWL](https://img.shields.io/badge/OWL-2.0-orange.svg)](https://www.w3.org/OWL/)
+[![RDF](https://img.shields.io/badge/RDF-Turtle-blue.svg)](https://www.w3.org/TR/turtle/)
+
+**PhD Thesis Prototype** — Dominique S. Loyer (UQAM)  
+*Citation Key: loyerModelingHybridSystem2025*
+
+> [!NOTE]
+
+> **Version stable : v2.4.1 (12 mars 2026) — (dashboard explainers, TREC metrics, GraphRAG)**
+>
+> - **Fact-Checking** multi-sources (Google Fact Check API)
+> - **E-E-A-T** (Experience, Expertise, Authority, Trust)
+> - **NER** — Extraction d'entités nommées (spaCy)
+> - **GraphRAG** — Réseau Neuro-Symbolique (D3.js)
+> - **Métriques** — Precision, Recall, nDCG, MRR
+> - **Bias Analysis** — Détection de biais
+
+**Site institutionnel: https://syscred.uqam.ca**
 
 ### 🔍 systemFactChecking – Hybrid Information Credibility Verification System
 A hybrid fact-checking system combining predicate-logic rules, ontologies (OWL), and neuro-symbolic AI to evaluate the credibility of information sources.
