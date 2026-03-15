@@ -35,8 +35,8 @@ PhD Candidate in Cognitive Informatics at [Université du Québec à Montréal (
 
 **PhD Thesis Prototype** — Dominique S. Loyer (UQAM)  
 *Citation Key: loyerModelingHybridSystem2025*
-
-> [!NOTE] **Version stable : v2.4.1 (12 mars 2026) — (dashboard explainers, TREC metrics, GraphRAG)**
+```markdown
+[!NOTE] **Version stable : v2.4.1 (12 mars 2026) — (dashboard explainers, TREC metrics, GraphRAG)**
 >  - **Fact-Checking** multi-sources (Google Fact Check API)
 >  - **E-E-A-T** (Experience, Expertise, Authority, Trust)
 >  - **NER** — Extraction d'entités nommées (spaCy)
@@ -44,6 +44,7 @@ PhD Candidate in Cognitive Informatics at [Université du Québec à Montréal (
 >  - **Métriques** — Precision, Recall, nDCG, MRR
 >  - **Bias Analysis** — Détection de biais
 
+```
 ---
 **Site institutionnel: https://syscred.uqam.ca**
 
@@ -160,7 +161,7 @@ systemFactChecking_Production/
 ├── .gitignore                      ← Mis à jour avec data/large
 └── README.md                       ← Mis à jour
 ```
-```
+
 ___
 ## 📚 Featured Publications
 
