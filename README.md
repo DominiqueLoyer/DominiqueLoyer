@@ -4,6 +4,7 @@
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=JmRd6U0AAAAJ)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB)](https://www.researchgate.net/profile/Dominique-Loyer)
 [![Website](https://img.shields.io/badge/Website-dominiqueloyer.github.io-orange)](https://dominiqueloyer.github.io)
+[![sysCRED](https://img.shields.io/badge/sysCRED-syscred.uqam.ca-7B2D8B)](https://syscred.uqam.ca)
 
 ---
 
