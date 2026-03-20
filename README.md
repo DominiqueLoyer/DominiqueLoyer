@@ -63,14 +63,14 @@ SysCRED est un système hybride de fact-checking combinant :
 - **E-E-A-T** : Scoring qualité Google (Experience, Expertise, Authority, Trust)
 - **Technologies:** Python, NLP, OWL Ontologies, Machine Learning, Neuro-symbolic AI
 - **Status:** Active Research (Doctoral Project)
-
+ [![sysCRED](https://img.shields.io/badge/sysCRED-syscred.uqam.ca-7B2D8B)](https://syscred.uqam.ca)
   
 - 📂 [Repository](https://github.com/DominiqueLoyer/systemFactChecking)
 - 📄 [Modeling Paper](https://doi.org/10.13140/rg.2.2.36348.24961) [![ISBN](https://img.shields.io/badge/ISBN-978--1--0699945--0--9-green)](https://isbnsearch.org/isbn/9781069994509)
 - 📄 [Ontology Paper](https://doi.org/10.13140/RG.2.2.22926.47680) [![ISBN](https://img.shields.io/badge/ISBN-978--1--0699945--1--6-green)](https://isbnsearch.org/isbn/9781069994516)
 - 📄 [Beamer Presentation - (PDF)](01_Presentations/syscred_presentation.pdf)
 
-
+[![sysCRED](https://img.shields.io/badge/sysCRED-syscred.uqam.ca-7B2D8B)](https://syscred.uqam.ca)
 [![PyPI version](https://badge.fury.io/py/syscred.svg)](https://badge.fury.io/py/syscred)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18436691.svg)](https://doi.org/10.5281/zenodo.18436691)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
