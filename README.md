@@ -28,6 +28,7 @@ PhD Candidate in Cognitive Informatics at [Université du Québec à Montréal (
 ---
 # SysCRED — Système Neuro-Symbolique de Vérification de Crédibilité
 
+[![sysCRED](https://img.shields.io/badge/sysCRED-syscred.uqam.ca-7B2D8B)](https://syscred.uqam.ca)
 [![PyPI version](https://badge.fury.io/py/syscred.svg)](https://badge.fury.io/py/syscred)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18436691.svg)](https://doi.org/10.5281/zenodo.18436691)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
