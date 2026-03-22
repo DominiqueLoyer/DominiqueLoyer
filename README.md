@@ -185,6 +185,17 @@ ___
 [![ISBN](https://img.shields.io/badge/ISBN-978--1--0699904--0--2-green)](https://isbnsearch.org/isbn/978-1-0699904-0-2)
 [![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.28011.20002-blue)](https://doi.org/10.13140/RG.2.2.28011.20002)
 
+### 🔍 **sysCRED: ** (2026)
+- **Proposition de recherche doctorale (DIC-9411) :**
+-Architecture, formalisation et implantation du système sysCRED
+- Une approche hybride neuro-symbolique pour la crédibilité et le raisonnement en informatique cognitive
+
+- **Technologies:** Python, NLP, Ontologies (OWL), Machine Learning
+- **Status:** Active Research
+ [![sysCRED](https://img.shields.io/badge/sysCRED-syscred.uqam.ca-7B2D8B)](https://syscred.uqam.ca)
+  
+- 📂 [Repository](https://github.com/DominiqueLoyer/systemFactChecking)
+
 
 ### 📝 Selected Papers
 - **Modeling a Hybrid System for Verifying Information Credibility** (2025)
@@ -219,23 +230,39 @@ ___
 
 ## 💻 Research Projects
 
-### 🔍 Information Credibility Verification System
+### 🔍 **sysCRED: ** (2026)
+- **Proposition de recherche doctorale (DIC-9411) :**
+-Architecture, formalisation et implantation du système sysCRED
+- Une approche hybride neuro-symbolique pour la crédibilité et le raisonnement en informatique cognitive
+
+- **Technologies:** Python, NLP, Ontologies (OWL), Machine Learning
+- **Status:** Active Research
+ [![sysCRED](https://img.shields.io/badge/sysCRED-syscred.uqam.ca-7B2D8B)](https://syscred.uqam.ca)
+  
+- 📂 [Repository](https://github.com/DominiqueLoyer/systemFactChecking)
+
+### 🔍 **Modeling a Hybrid System for Verifying Information Credibility** (2025)
 A hybrid system combining predicate logic and ML/AI for assessing information source credibility.
 - **Technologies:** Python, NLP, Ontologies (OWL), Machine Learning
 - **Status:** Active Research
 - 📂 [Repository](#) | 📄 [Paper](https://doi.org/10.13140/rg.2.2.36348.24961)
+  [![ISBN](https://img.shields.io/badge/ISBN-978--1--0699945--0--9-green)](https://isbnsearch.org/isbn/9781069994509)
+  [![DOI](https://img.shields.io/badge/DOI-10.13140/rg.2.2.36348.24961-blue)](https://doi.org/10.13140/rg.2.2.36348.24961)
 
-### 🌐 Web Science Ontology
+### 🌐 **Hybrid System Ontology for Information Source Verification** (2025) 
 OWL ontology for modeling information verification systems.
 - **Technologies:** OWL, RDF, Protégé
 - **Status:** Published
 - 📂 [Repository](#) | 📄 [Paper](https://doi.org/10.13140/RG.2.2.22926.47680)
+  [![ISBN](https://img.shields.io/badge/ISBN-978--1--0699945--1--6-green)](https://isbnsearch.org/isbn/9781069994516)
+  [![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.22926.47680-blue)](https://doi.org/10.13140/RG.2.2.22926.47680)
 
 ### 🔤 Neural Machine Translation (English-Russian)
 Neural machine translation system with attention mechanisms.
 - **Technologies:** Python, TensorFlow, PyTorch, NMT
 - **Status:** Completed
-- 📂 [Repository](#) | 📄 [Paper](https://doi.org/10.13140/RG.2.2.17980.55687) [![ISBN](https://img.shields.io/badge/ISBN-978--1--0699904--9--5-green)](https://isbnsearch.org/isbn/9781069990495)
+- 📂 [Repository](#) | 📄 [Paper](https://doi.org/10.13140/RG.2.2.17980.55687)
+- [![ISBN](https://img.shields.io/badge/ISBN-978--1--0699904--9--5-green)](https://isbnsearch.org/isbn/9781069990495)
 
 
 ---
