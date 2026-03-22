@@ -278,6 +278,19 @@ ___
   
 - 📂 [Repository](https://github.com/DominiqueLoyer/systemFactChecking)
 
+### Plateforme de diffusion de contenu de l'Institut des Sciences Cognitives de l'UQAM
+
+[![Plateforme ISC](https://img.shields.io/badge/Plateforme%20ISC-plateforme--isc.uqam.ca-yellow)](https://plateforme-isc.uqam.ca)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19136152.svg)](https://doi.org/10.5281/zenodo.19136152)
+[![Version](https://img.shields.io/badge/version-v1.0.4-blue?logo=zenodo)](https://zenodo.org/record/19136152)
+[![Node.js](https://img.shields.io/badge/Node.js-backend-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+**Zenodo** | **CC BY 4.0** | **v1.0.4**
+
+**DOI :** [10.5281/zenodo.19136152](https://doi.org/10.5281/zenodo.19136152)
+
+
 ### 🔍 **Modeling a Hybrid System for Verifying Information Credibility** (2025)
 A hybrid system combining predicate logic and ML/AI for assessing information source credibility.
 - **Technologies:** Python, NLP, Ontologies (OWL), Machine Learning
