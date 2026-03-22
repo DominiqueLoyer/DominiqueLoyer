@@ -313,6 +313,7 @@ Neural machine translation system with attention mechanisms.
 - **Status:** Completed
 - 📂 [Repository](#) | 📄 [Paper](https://doi.org/10.13140/RG.2.2.17980.55687)
 - [![ISBN](https://img.shields.io/badge/ISBN-978--1--0699904--9--5-green)](https://isbnsearch.org/isbn/9781069990495)
+- [![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.17980.55687-blue)](https://doi.org/10.13140/RG.2.2.17980.55687)
 
 
 ---
@@ -335,8 +336,41 @@ Neural machine translation system with attention mechanisms.
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+[![sysCRED](https://img.shields.io/badge/sysCRED-syscred.uqam.ca-7B2D8B)](https://syscred.uqam.ca)
+![Version](https://img.shields.io/badge/version-v2.4.1-blue?logo=github)
+[![PyPI version](https://badge.fury.io/py/syscred.svg)](https://badge.fury.io/py/syscred)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18436691.svg)](https://doi.org/10.5281/zenodo.18436691)
+![Python](https://img.shields.io/badge/Python-72.4%25-3776AB?logo=python&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DominiqueLoyer/systemFactChecking/blob/main/02_Code/v2_syscred/syscred_colab.ipynb)
+[![OWL](https://img.shields.io/badge/OWL-2.0-orange.svg)](https://www.w3.org/OWL/)
+[![RDF](https://img.shields.io/badge/RDF-Turtle-blue.svg)](https://www.w3.org/TR/turtle/)
+![SPARQL](https://img.shields.io/badge/SPARQL-Query_Language-006699?logo=semantic-web&logoColor=white)
+![Ontologie](https://img.shields.io/badge/Ontologie-OWL%2FSPARQL-006699?logo=semantic-web&logoColor=white)
+![Neuro--Symbolic](https://img.shields.io/badge/AI-Neuro--Symbolic-8A2BE2?logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-FF6B6B)
+![GraphRAG](https://img.shields.io/badge/GraphRAG-Knowledge_Graph_RAG-9B59B6)
+[![HTML](https://img.shields.io/badge/HTML-13.1%25-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)
+![Jupyter](https://img.shields.io/badge/Jupyter-11.5%25-F37626?logo=jupyter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-backend-339933?logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-API-000000?logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=white)
+![Lucide](https://img.shields.io/badge/Lucide_React-Icons-F56565?logo=lucide&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0.2%25-2496ED?logo=docker&logoColor=white)
+[![Render](https://img.shields.io/badge/Deployed%20on-Render-46E3B7?logo=render)](https://isc-video-platform.onrender.com)
+[![Supabase](https://img.shields.io/badge/Database-Supabase-3ECF8E?logo=supabase)](https://supabase.com)
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-4169E1?logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database-003B57?logo=database&logoColor=white)
+![Unix](https://img.shields.io/badge/Unix-OS-000000?logo=linux&logoColor=white)
+[![Automation](https://img.shields.io/badge/Automation-Cron%20%7C%20Plist%20%7C%20Bash-2E8B57)](#)
+[![BibTeX](https://img.shields.io/badge/Automation-BibTeX_Extractor-FF9900)](#)
+[![Email](https://img.shields.io/badge/Automation-Email_Filter-1E90FF)](#)
+[![Backup](https://img.shields.io/badge/Automation-Auto_Backup-32CD32)](#)
+[![Terminal](https://img.shields.io/badge/Automation-Terminal_History_Logs-8A2BE2)](#)
+___
 
----
+
 
 ## 📊 GitHub Statistics
 
