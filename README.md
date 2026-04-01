@@ -318,7 +318,7 @@ Neural machine translation system with attention mechanisms.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills       https://dominiqueloyer.github.io/dominique-loyer-skills.html
 
 **Programming Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
