@@ -429,7 +429,7 @@ ___
 
 - 🌐 **Website:** [dominiqueloyer.github.io](https://dominiqueloyer.github.io)
 - 📧 **Email:** 2e2g3zhvt@mozmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/dominique-loyer-456ab739b](https://www.linkedin.com/in/dominique-loyer-456ab739b/)
+- 💼 **LinkedIn:** [loyer-ai-researcher/](https://www.linkedin.com/in/loyer-ai-researcher/)
 - 🔬 **ORCID:** [0009-0003-9713-7109](https://orcid.org/0009-0003-9713-7109)
 - 📚 **Google Scholar:** [Profile](https://scholar.google.com/citations?user=JmRd6U0AAAAJ)
 - 🔍 **ResearchGate:** [Dominique Loyer](https://www.researchgate.net/profile/Dominique-Loyer)
