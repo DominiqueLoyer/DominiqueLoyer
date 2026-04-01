@@ -1,4 +1,4 @@
-# 👨‍🔬 Dominique S. Loyer
+# 👨‍🔬 Dominique Loyer
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--9713--7109-green.svg)](https://orcid.org/0009-0003-9713-7109)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=JmRd6U0AAAAJ)
