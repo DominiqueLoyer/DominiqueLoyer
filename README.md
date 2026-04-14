@@ -293,7 +293,7 @@ ___
 
 **Zenodo** | **CC BY 4.0** | **v1.0.4**
 
-**DOI :** [10.5281/zenodo.19136152](https://doi.org/10.5281/zenodo.19136152)
+**DOI :** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19136152.svg)](https://doi.org/10.5281/zenodo.19136152)
 
 
 ### 🔍 **Modeling a Hybrid System for Verifying Information Credibility** (2025)
