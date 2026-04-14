@@ -262,6 +262,9 @@ ___
   
 
 📄 [**View all publications →**](https://dominiqueloyer.github.io/papers.html)
+[![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97-Dataset-yellow)](https://huggingface.co/datasets/DomLoyer/trec-ap88-90-corpus)
+[![TREC AP88-90 Corpus](https://img.shields.io/badge/Corpus-TREC%20AP88--90-blue)](https://huggingface.co/datasets/DomLoyer/trec-ap88-90-corpus)
+[![English](https://img.shields.io/badge/Language-English-green)](https://huggingface.co/datasets/DomLoyer/trec-ap88-90-corpus)
 
 ---
 
