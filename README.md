@@ -9,8 +9,8 @@
 
 
 ---
-
-PhD Candidate in Cognitive Informatics at [Université du Québec à Montréal (UQAM)](https://dic.uqam.ca)
+*New in 2027 
+PhD Candidate in CS at McGILL (Thesis = sysCRED)
 
 **Research Interests:**
 - 🤖 Algorithmic Bureaucracy & Governance
